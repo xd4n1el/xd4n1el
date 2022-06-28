@@ -5,6 +5,7 @@
 - <b>inicioDaJornada:</b> <em>Em 2021</em>,
 - <b>superior:</b> <em>Análise e Desenvolvimentos de Sistemas -> 2° Semestre</em>,
 - <b>senioridade:</b> <em>Júnior</em>
+
 };
 <!---
 xd4n1el/xd4n1el is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
