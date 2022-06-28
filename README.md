@@ -1,7 +1,7 @@
  let <i>introducao</i> = {
-- <b>nome:</b> Daniel,
+- <b>nome:</b> <em>Daniel</em>,
 - <b>interesse:</b> desenvolvimento front-end,
-- <b>framework:</b> React,
+- <b>foco:</b> React.JS,
 - <b>inicioDaJornada:</b> Em 2020,
 - <b>Superior:</b> Análise e Desenvolvimentos de Sistemas -> 2° Semestre
 
