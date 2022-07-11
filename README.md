@@ -1,4 +1,4 @@
--About me
+#About me
 
 Hi, 
  if u are here, i think that can be cool if u know me a little bit, as a software developer.
@@ -19,7 +19,7 @@ Hi,
  That's my path so far.
  # I hope you can read it.
  
--Português
+### Português
   
    Escolhi essa carreira porque amo computadores e jogos também, mas no passado eu não sabia que programação existia, agora estou aprendendo e realmente amando.
  Minha jornada começou em 2021 e a partir daí nunca mais parei de aprender e praticar, sempre tentando ser melhor.
@@ -32,6 +32,6 @@ estou realmente focado nisso, comecei os cursos, praticar, curso superior (não 
  Essa é a minha jornada até agora.
  
  
- # Front-End Developer
- # React Developer
- # Análise e Desenvolvimento de Sistemas
+ ## Front-End Developer
+ ## React Developer
+ ## Análise e Desenvolvimento de Sistemas 2° Semestre
