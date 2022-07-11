@@ -1,4 +1,4 @@
-#About me
+# About me
 
 Hi, 
  if u are here, i think that can be cool if u know me a little bit, as a software developer.
@@ -17,7 +17,7 @@ Hi,
  
  Now i'm on React JS, really enjoy it, components are like java classes, i was introduced OOP from there.
  That's my path so far.
- # I hope you can read it.
+### I hope you can read it.
  
 ### Português
   
