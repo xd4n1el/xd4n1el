@@ -1,5 +1,6 @@
-Hi,
-  -About me
+-About me
+
+Hi, 
  if u are here, i think that can be cool if u know me a little bit, as a software developer.
  So, lets get on ;)
  
@@ -18,7 +19,7 @@ Hi,
  That's my path so far.
  # I hope you can read it.
  
-  -Português
+-Português
   
    Escolhi essa carreira porque amo computadores e jogos também, mas no passado eu não sabia que programação existia, agora estou aprendendo e realmente amando.
  Minha jornada começou em 2021 e a partir daí nunca mais parei de aprender e praticar, sempre tentando ser melhor.
