@@ -34,4 +34,4 @@ estou realmente focado nisso, comecei os cursos, praticar, curso superior (não 
  
  ## Front-End Developer
  ## React Developer
- ## Análise e Desenvolvimento de Sistemas 2° Semestre
+ ## Análise e Desenvolvimento de Sistemas 3° Semestre
