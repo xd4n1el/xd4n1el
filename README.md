@@ -6,7 +6,7 @@ Hi,
  
  Before i continue, u should know that im not fluent on english language... what i know i have learned on games, movies, that kind of things. Consider i'm intermediate on that because i'm trying do this myself. :P
  
- <i>I'm a front end sofware developer<i>
+ <i>I'm a fullstack sofware developer<i>
  
  i choose this career because i love computers and games as well, but in the past i dont know programming exists, now im learning and really loving it.
  My journey starded in 2021 and from there i never stopped learn and practice, always trying to be better.
@@ -32,6 +32,7 @@ estou realmente focado nisso, comecei os cursos, praticar, curso superior (não 
  Essa é a minha jornada até agora.
  
  
- ## Front-End Developer
- ## React Developer
- ## Análise e Desenvolvimento de Sistemas 3° Semestre
+ ## Fullstack Developer
+ ## React Developer / Next.js
+ ## Node Developer / Nest.js
+ ## Análise e Desenvolvimento de Sistemas Concluído
